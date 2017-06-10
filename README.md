@@ -10,11 +10,11 @@ To add your own changes follow the steps below (This is simplified workflow, wit
 
 To push the changes to your repository:
 
-1. git init
-2. git add .
-3. git commit -m "Your message here"
-4. git remote add origin https://github.com/YOURUSERNAME/PROJECTNAME
-5. git push origin master
+1. ```git init```
+2. ```git add .```
+3. ```git commit -m "Your message here"```
+4. ```git remote add origin https://github.com/YOURUSERNAME/PROJECTNAME```
+5. ```git push origin master```
 
 Once you've committed and pushed all of your changes to GitHub, go to the page for your fork on GitHub, select your development branch, and click the pull request button. If you need to make any adjustments to your pull request, just push the updates to GitHub. Your pull request will automatically track the changes on your development branch and update.
 
